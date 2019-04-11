@@ -13,7 +13,7 @@ Once you installed Finder, run it. A UI like this will appear :
 
 ![alt text](https://i.imgur.com/uZxrkue.jpg)
 
-Now, as it says, type the full path of the folder where you want your lost files to be recovered in. Here, I will enter "C:\Users\NoOne\Desktop\OutputFolder\" for demonstration purposes (Note that I added a "\" in the end of the destination folder. This is important) :
+Now, as it says, type the full path of the folder where you want your lost files to be recovered in. Here, I will enter "C:\Users\NoOne\Desktop\OutputFolder\\" for demonstration purposes (Note that I added a "\\" in the end of the destination folder. This is important) :
 
 ![alt text](https://i.imgur.com/c378Myr.jpg)
 
@@ -35,7 +35,7 @@ Finder is now doing its work. We can see in the windows bar a progress percentag
 
 - *Phase 1* : Search all files with the specified file name and extension. In this demonstration. every file with "readme" in its name and any extension, and export the path of the found files in the Drives folder, as  described in the first paragraph of this README.
 
-- *Phase 2* : Copy all the files it found in the destination folder specified at the very first step of the process, here "C:\Users\NoOne\Desktop\OutputFolder\".
+- *Phase 2* : Copy all the files it found in the destination folder specified at the very first step of the process, here "C:\Users\NoOne\Desktop\OutputFolder\\".
 
 - *Phase 3* : Delete the temporary files it used. This doesn't matter to you.
 
