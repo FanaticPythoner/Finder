@@ -21,7 +21,7 @@ Now, as it says, type the full path of the folder where you want your lost files
 
 ![alt text](https://i.imgur.com/c378Myr.jpg)
 
-Finder then asks us to enter the full or the part of a file name. The search is not case sentitive : "README" will be threated the same as "readme". If we enter "\*", It will literally take any file with a name, regardless of what it is, with the extension we will specify at the next step. Here, if we enter "readme", it will find every single file with "readme" in its name. For the sake of this demonstration, I will enter "readme" :
+Finder then asks us to enter the full or the part of a file name. The search is not case sentitive : "README" will be threated the same as "readme". If we enter "\*" or literally just hit enter without entering nothing, It will literally take any file with a name, regardless of what it is, with the extension we will specify at the next step. Here, if we enter "readme", it will find every single file with "readme" in its name. For the sake of this demonstration, I will enter "readme" :
 
 ![alt text](https://i.imgur.com/zzMA1hl.jpg)
 
